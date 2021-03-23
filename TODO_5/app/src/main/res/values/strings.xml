@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">todo4</string>
+    <string name="send">Send</string>
+    <string name="enter">Enter Your Text Here</string>
+    <string name="received">Message Received</string>
+</resources>
