@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TODO_12</string>
+    <string name="txt">Droid Desserts</string>
+    <string name="don">Donuts are glazed and sprinkled with candy.</string>
+    <string name="ice">Ice cream sandwiches have chocolate wafers and vanilla filling.</string>
+    <string name="fro">FroYo is premium self-serve frozen yogurt.</string>
+</resources>
